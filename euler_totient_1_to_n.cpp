@@ -21,4 +21,5 @@ int main(){
 		cout << a[i] << ' ';
 	}
 	cout << endl;
+	cout << "testing for ssh\n";
 }
